@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to code for the first time, with zero experience.
 - 📫 How to reach me: Slide into my DMs
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I almost got a pentakill in LoL once
+- ⚡ Fun fact: I have no idea what I'm doing
 
 <!---
 mryang223/mryang223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
