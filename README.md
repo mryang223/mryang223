@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mryang223
-- 👀 I’m interested in learning how to code for fun.
+- 👀 I’m interested in learning how to code recreationally, for now.
 - 🌱 I’m currently learning how to code for the first time, with zero experience.
 - 📫 How to reach me: Slide into my DMs
 - 😄 Pronouns: He/Him
